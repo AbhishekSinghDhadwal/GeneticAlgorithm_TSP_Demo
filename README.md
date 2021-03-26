@@ -20,7 +20,7 @@ The program is divided into the following sections -
 For further details on implementation, refer the notebook.
 
 ### Instructions to run :
-Open the attached notebook (GA_TSP_Demonstration.ipynb) in Google Colab, and press Ctrl + F9 to run all code snippets. The main function (last snippet) shall request the following details : 
+Open the [attached notebook](https://github.com/AbhishekSinghDhadwal/GeneticAlgorithm_TSP_Demo/blob/main/GA_TSP_Demonstration.ipynb)  in Google Colab, and press Ctrl + F9 to run all code snippets. The main function (last snippet) shall request the following details : 
 Input parameter  | Description
 ------------- | -------------
 numCities  | The number of vertices required
@@ -30,7 +30,7 @@ probMutation | The probability of mutation (default taken as 0.05)
 
 #### Output information :
 The program will provide input details, a randomly generated input graph along with the best fitness values (along with the respective best path and generation of occurence) and time taken to run the program.
-It also plots down the best fitness values per generation as shown below :
+It also plots down the best fitness values per generation as shown below:
 
 
 ![sampleGraph](https://user-images.githubusercontent.com/39513876/112625723-525b1f80-8e55-11eb-8d61-9d0cc8df75ee.PNG)
