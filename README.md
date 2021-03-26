@@ -1,5 +1,6 @@
 # GeneticAlgorithm_TSP_Demo
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) &nbsp; 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbhishekSinghDhadwal/GeneticAlgorithm_TSP_Demo/blob/main/GA_TSP_Demonstration.ipynb)
 
 A demo python implementation of genetic algorithms used in order to solve the Travelling Salesman Problem.
 This notebook was created in order to provide a solution for the following problem statement as part of my CS department's Artificial Intelligence course:
