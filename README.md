@@ -5,7 +5,7 @@
 A demo python implementation of genetic algorithms used in order to solve the Travelling Salesman Problem.
 This notebook was created in order to provide a solution for the following problem statement as part of my CS department's Artificial Intelligence course:
 
-*Problem statement* - Use genetic algorithms to solve the Travelling Salesperson Problem (TSP) on a large fully connected graph (about 50 nodes)
+*Problem statement* - Use genetic algorithms to solve the Traveling Salesperson Problem (TSP) on a large fully connected graph (about 50 nodes)
 
 ### Implementation Details :
 The program is divided into the following sections -
